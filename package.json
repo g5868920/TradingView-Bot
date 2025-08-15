@@ -1,0 +1,12 @@
+{
+  "name": "tv-webhook-bot",
+  "version": "1.0.0",
+  "private": true,
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "start": "node api/tv-hook.js"
+  }
+}
